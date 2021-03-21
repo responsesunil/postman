@@ -1,0 +1,42 @@
+.home-container {
+    margin-top: 50px;
+    height: calc(100vh - 114px);
+}
+
+.h-full {
+    height: 100%;
+}
+
+.response-body {
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.request-body {
+    margin-top: 20px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.params {
+    height: 100px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.request-history-component {
+    border: 1px solid lightgray;
+    height: 100%;
+    border-radius: 5px;
+}
